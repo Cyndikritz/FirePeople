@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "44009719395",
+    "firebase_url": "https://fired-6fd0a.firebaseio.com",
+    "project_id": "fired-6fd0a",
+    "storage_bucket": "fired-6fd0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44009719395:android:312ca7c15cbf4502579a56",
+        "android_client_info": {
+          "package_name": "com.cyndi.firepeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44009719395-fs5vf8qmb9a8oeuri8l82lk4emkg39mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyndi.firepeople",
+            "certificate_hash": "87acdfd2d3814dfdb6d81ecfe1d71f03865b3017"
+          }
+        },
+        {
+          "client_id": "44009719395-0u72pra9t46h4ruvvs0mu4s9foqe1ajn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK4-xICabfy_Z5lFK2oR1OUAD-v0RvnKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44009719395-0u72pra9t46h4ruvvs0mu4s9foqe1ajn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
