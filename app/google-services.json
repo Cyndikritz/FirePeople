@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "44009719395-78m4glrdcbrcimibo1mi60od7laddtrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyndi.firepeople",
+            "certificate_hash": "8e5b53ca55ed92ddd47f982a804b2e72cbf83f95"
+          }
+        },
+        {
           "client_id": "44009719395-fs5vf8qmb9a8oeuri8l82lk4emkg39mh.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

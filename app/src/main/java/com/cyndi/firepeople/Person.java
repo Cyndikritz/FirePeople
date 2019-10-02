@@ -30,7 +30,9 @@ public class Person {
         this.fireReason = fireReason;
     }
 
-
-
-
+   // @androidx.annotation.NonNull
+    @Override
+    public String toString() {
+        return firstName+" "+surname;
+    }
 }

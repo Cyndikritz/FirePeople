@@ -16,6 +16,18 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+    <TextView
+        android:id="@+id/lblName"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="38dp" />
+
+    <TextView
+        android:id="@+id/lblSurname"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="38dp" />
+
     <ImageView
         android:id="@+id/pam"
         android:layout_width="match_parent"
